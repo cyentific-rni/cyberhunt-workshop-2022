@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>Workshop on Cyber Threat Intelligence and Hunting 2022</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+ 
+  <body>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Workshop on Cyber Threat Intelligence and Hunting 2022</h1>
+      <h2>CyberHunt 2022</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+        <a href="https://cyberhunt2022.cyberhunt.no/index.html" class="btn">Home</a>
+        <a href="https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S02&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php" class="btn">Submit Your Paper</a>
+        <a href="https://cyberhunt2022.cyberhunt.no/organization.md" class="btn">Organization</a>
+        <a href="https://cyberhunt2022.cyberhunt.no/index.html" class="btn">WikiCFP</a>
+        <a href="https://bigdataieee.org/BigData2022/" class="btn">IEEE BigData 2022 Website</a>
+
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="https://github.com/fovea-research/cyberhunt-workshop-2022">CyberHunt2022 GitHub</a></span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
