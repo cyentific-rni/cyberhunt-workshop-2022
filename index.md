@@ -48,6 +48,5 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 All accepted papers will be included in the IEEE Big Data 2022 Conference Proceedings and forwarded for inclusion in the IEEE Xplore Digital Library. At least one author of each accepted paper must register for the conference and present the paper in order to include the paper in the proceedings.
 
 
-## Support or Contact
-For general inquiries you can contact the workshop chairs: Vasileios Mavroeidis (vasileim[@]ifi.uio.no) and Mateusz Zych (mateusdz[@]ifi.uio.no).
-For PC-chair inquiries you can contact: TBA.
+## Support
+For inquiries contact: Andre Büttner (andrbut[@]ifi.uio.no) and Mateusz Zych (mateusdz[@]ifi.uio.no).
