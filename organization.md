@@ -22,11 +22,14 @@ permalink: /organization.md/
 * Fatbardh Veseli -	Capgemini Germany / Riinvest College, Kosovo  
 * Gudmund Grov - Norwegian Defence Research Establishment 
 * Jon-Martin Storm - Norwegian Water Resources and Energy Directorate (NVE)
+* Jonathan Magnusson - Karlstad University
 * Kai Rannenberg - Goethe University Frankfurt Chair of Mobile Business & Multilateral Security  
 * Konstantinos Fysarakis - Sphynx Analytics Ltd (SANL)  
 * Konstantinos Rantos -	International Hellenic University
+* Leonardo Iwaya - Karlstad University
 * Lothar Fritsch - Oslo Metropolitan University
 * Luigi Lo Iacono - Hochschule Bonn-Rhein-Sieg  
+* Malte Hansen - University of Oslo
 * Mateusz Zych - University of Oslo
 * Mauno Pihelgas - NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)  
 * Nils Gruschka	- University of Oslo  
