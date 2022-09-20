@@ -36,4 +36,4 @@ permalink: /organization.md/
 * Panagiotis Karampelas	- Hellenic Air Force Academy 
 * Robert Chetwyn - University of Oslo  
 * Tamas Bisztray - University of Oslo  
-* Vasileios Mavroiedis - University of Oslo  
+* Vasileios Mavroeidis - University of Oslo  
