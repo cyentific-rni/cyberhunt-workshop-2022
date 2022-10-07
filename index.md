@@ -5,7 +5,7 @@ The Workshop on Cyber Threat Intelligence and Hunting is organized by the Digita
 
 ## Important Dates
 <pre>
-Submission deadline: October 7, 2022 (<s>October 1, 2022</s>)
+Submission deadline: October 14, 2022 (<s>October 1, 2022</s>)
 Notifications due: November 1, 2022
 Camera-ready of accepted papers deadline: November 15, 2022
 Conference and workshops: Dec 17-20, 2022
