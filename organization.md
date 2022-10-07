@@ -14,6 +14,7 @@ permalink: /organization.md/
 
 ## Program Committee
 
+* Ali Hisham - Edinburgh Napier University 
 * Andre Büttner -	University of Oslo  
 * Audun Jøsang - University of Oslo  
 * Blerim Rexha - University of Prishtina 
