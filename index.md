@@ -1,7 +1,8 @@
 ## The 5th Workshop on Cyber Threat Intelligence and Hunting
 
-The Workshop on Cyber Threat Intelligence and Hunting is organized by the Digital Security Group of the University of Oslo in conjunction with the 2022 IEEE International Conference on Big Data (IEEE BigData 2022). The workshop will take place as a <b>hybrid</b> event in Osaka, Japan, from December 17 to 20, 2022. Accepted papers can be presented physically or online.
+The Workshop on Cyber Threat Intelligence and Hunting is organized by the Digital Security Group of the University of Oslo in conjunction with the 2022 IEEE International Conference on Big Data (IEEE BigData 2022). The workshop will take place as a <b>hybrid</b> event in Osaka, Japan, from December 17 to 20, 2022. 
 
+**Accepted papers can be presented with a physical presence or remotely (online).**
 
 ## Important Dates
 <pre>
