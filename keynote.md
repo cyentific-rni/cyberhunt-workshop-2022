@@ -6,7 +6,8 @@ permalink: /keynote.md/
 ---
 
 ## Keynote Title
- ``Towards Integrated and Adaptive Cybersecurity Operations with Cross-Border Collaboration - A European Perspective``
+
+**Towards Integrated and Adaptive Cybersecurity Operations with Cross-Border Collaboration - A European Perspective**
 
 ## Keynote Speaker
 ``Dr. Konstantinos Fysarakis``
