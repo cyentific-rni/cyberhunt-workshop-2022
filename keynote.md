@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Keynote Speaker"
+permalink: /keynote.md/
+
+---
+
 ## Keynote Title
  ``Towards Integrated and Adaptive Cybersecurity Operations with Cross-Border Collaboration - A European Perspective``
 
