@@ -20,7 +20,8 @@ permalink: /organization.md/
 * Blerim Rexha - University of Prishtina 
 * Charlie Frick	- Johns Hopkins University Applied Physics Laboratory (JHU APL)  
 * Fabio Massimo Zennaro -	University of Warwick  
-* Fatbardh Veseli -	Capgemini Germany / Riinvest College, Kosovo  
+* Fatbardh Veseli -	Capgemini Germany / Riinvest College, Kosovo 
+* Florian Frank - Universität Passau 
 * Gudmund Grov - Norwegian Defence Research Establishment 
 * Jon-Martin Storm - Norwegian Water Resources and Energy Directorate (NVE)
 * Jonathan Magnusson - Karlstad University
