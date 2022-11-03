@@ -16,7 +16,8 @@ permalink: /organization.md/
 
 * Ali Hisham - Edinburgh Napier University 
 * Andre Büttner -	University of Oslo  
-* Audun Jøsang - University of Oslo  
+* Andrii Shalaginov - Norwegian University of Science and Technology (NTNU)
+* Audun Jøsang - University of Oslo  
 * Blerim Rexha - University of Prishtina 
 * Charlie Frick	- Johns Hopkins University Applied Physics Laboratory (JHU APL)  
 * Fabio Massimo Zennaro -	University of Warwick  
