@@ -40,7 +40,7 @@ The workshop welcomes research in the following areas.
 ## Submission Information
 1. [Submission Details](https://www.ieee.org/conferences/publishing/templates.html)
 
-2. [Submission Page](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S02&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php)
+2. [~~Submission Page~~](https://bigdataieee.org/BigData2022/)
 
 The workshop invites full-length paper submissions that report ongoing or finished research (up to 10 pages), or short papers of early stage work (up to 6 pages).
 
